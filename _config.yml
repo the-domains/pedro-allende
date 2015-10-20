@@ -1,4 +1,4 @@
-name: null
+name: Pedro Allende
 favicon: null
 layout_spectrum: 0.4155225269496441
 typography_spectrum: 0.8321619615890086
@@ -15,8 +15,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.9549463668372482
+  brandColors:
+    - '#ffffff'
+    - '#1a1a18'
+    - '#bc9061'
+    - '#d1d5d6'
+    - '#444349'
+  brandStrength: 0.75
   lightness: 0.8364157432224602
   saturation: 0.06075988756492734
   rhythmicContrast: 0.8127197136636823
