@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Just a first post...
-datePublished: '2015-10-25T01:07:45.930Z'
-dateModified: '2015-10-25T01:07:42.594Z'
+datePublished: '2015-10-25T02:07:28.361Z'
+dateModified: '2015-10-25T02:07:24.510Z'
 title: Listen dude.
 sourcePath: _posts/2015-10-24-listen-dude.md
 published: true
