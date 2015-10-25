@@ -1,22 +1,22 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Just a first post...
-datePublished: '2015-10-24T14:39:44.927Z'
-dateModified: '2015-10-24T14:30:07.392Z'
+datePublished: '2015-10-25T01:07:45.930Z'
+dateModified: '2015-10-25T01:07:42.594Z'
 title: Listen dude.
+sourcePath: _posts/2015-10-24-listen-dude.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-24-listen-dude.md
-published: true
 url: listen-dude/index.html
 _type: Article
 
