@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Insert Title Here. Seriously.]]></title>
+        <description><![CDATA[Insert Title Here. Seriously.]]></description>
+        <link>https://thegrid.ai/pedro-allende/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 19:56:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pedro-allende/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Company He Keeps]]></title>
+            <description><![CDATA[<article><h1>The Company He Keeps</h1><p>Respect means treating people on their merits-not according to the rigid categories of identity politics. Merit will always create value. Though Charles G. Koch, with his strong libertarian views and willingness to fund political causes, may be a lightning rod in some circles, few can argue with his business success.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a06ef3b7a7153c19ad8c73d7b678dafeefaaee66.jpg"></article>]]></description>
+            <link>http://www.wsj.com/articles/the-company-he-keeps-1445555620</link>
+            <guid isPermaLink="false">8b270202-9b9c-4cb2-a36d-5971ec7a2733</guid>
+            <pubDate>Sun, 25 Oct 2015 11:08:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Listen dude.]]></title>
+            <description><![CDATA[<article><h1>Listen dude.</h1><p>Just a first post...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3b4f09fe352a82fc567d7b903efac88a99cae2f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pedro-allende/listen-dude/index.html</link>
+            <guid isPermaLink="false">d3e834e6-df33-44f0-ae6f-c6145fa69ca3</guid>
+            <pubDate>Sun, 25 Oct 2015 02:07:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“Nearly all men can stand adversity, but if you want to test a man's character, give him power.”]]></title>
+            <description><![CDATA[<article><h1>“Nearly all men can stand adversity, but if you want to test a man's character, give him power.”</h1><p>nullnull</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f9270d22788fed8e778a98b328ca2754687f9e1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pedro-allende/nearly-all-men-can-stand-adversity-but-if-you-want-to-test/index.html</link>
+            <guid isPermaLink="false">654ccd36-d606-4f3d-98b7-0f9e6b3e987b</guid>
+            <pubDate>Sun, 13 Mar 2016 19:55:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
